@@ -1,5 +1,3 @@
-# Flutter-SignUp-Login
-
 # SignUp & Login System in Flutter
 
 with Facebook, Gmail, Twitter Authentication 
