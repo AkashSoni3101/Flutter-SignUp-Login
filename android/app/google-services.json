@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499200496553",
+    "project_id": "oyebusy-60a2a",
+    "storage_bucket": "oyebusy-60a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499200496553:android:6eebe70a07d11de0bdaab8",
+        "android_client_info": {
+          "package_name": "com.example.oyebusy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499200496553-lembhf5d310kdhu4qcbsa06eg61ctfrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyebusy",
+            "certificate_hash": "363ee3b1008fb6eb9c1b2636dfebe2647ef71438"
+          }
+        },
+        {
+          "client_id": "499200496553-6msthkc839muhgisahg18g94leu86b6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcelpO6rmGA24fx7u02gYN62jW4Gt0CRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499200496553-6msthkc839muhgisahg18g94leu86b6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
